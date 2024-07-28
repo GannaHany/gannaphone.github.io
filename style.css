@@ -1,10 +1,14 @@
 body {
     text-align: center;
-    background-image: url("imgs/bg9.webp");
-    background-size:1000px 500px ;
-    background-position: right;
+    background-image: url("imgs/bg5.jpg");
+/*     background-size:1000px 500px ; */
+/*     background-position: right;
     background-position-y: 200px;
+    background-repeat: no-repeat; */
+        background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
+
 }
 
 h1{
